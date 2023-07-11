@@ -30,7 +30,7 @@
 ![bcb](images/aka.png)
 
 # 強調
-a*b*c
+a*b*o
 
 d**e**f
 
