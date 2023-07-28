@@ -37,7 +37,7 @@ d**e**f
 # コード
 ```java
 public static void main(String[]){
-    system.out.println("Hello ikezaki")
+    system.out.println("hello")
 }
 ```
 # 水平線
